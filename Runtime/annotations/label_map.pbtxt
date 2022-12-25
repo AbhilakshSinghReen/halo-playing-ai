@@ -1,0 +1,4 @@
+item { 
+	name:'enemy'
+	id:1
+}
